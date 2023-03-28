@@ -1,0 +1,35 @@
+Images:
+https://guides.wiggle.fr/velo-route-debutant
+https://www.redohm.fr/2015/03/utilisation-du-module-gps-grove-sen10752p/
+https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Sign_first_aid.svg/1200px-Sign_first_aid.svg.png
+
+Images matériels:
+https://images.raspberrypiq.com/l-m/4-model-b-4gb.jpg
+https://www.framboise314.fr/wp-content/uploads/2019/06/04-PI-4-Detailled-2.png
+https://i.ebayimg.com/images/g/IN0AAOSw59JfpAfv/s-l640.jpg
+https://fraoustin.fr/old/_images/raspi.png
+https://2betrading.com/752-large_default/gps-module-pour-arduino-avec-antenne.jpg
+https://www.gotronic.fr/ar-module-gps-grove-113020003-18954.jpg
+https://media.materiel.net/r550/products/MN0005519447_1.jpg
+https://res.cloudinary.com/rsc/image/upload/b_auto,c_pad,dpr_1.0,q_auto,w_700/F1793714-01
+https://cdn.shopify.com/s/files/1/1509/1638/products/SIM_808_GPRS_GSM_Shield_mit_GPS_Antenne_fur_Arduino_1500x.jpg?v=1581348507
+
+Fais dievert (mise en situation):
+https://www.sudouest.fr/gironde/lanton/lanton-un-homme-chute-a-velo-et-decede-13242602.php
+https://www.francebleu.fr/infos/faits-divers-justice/grenoble-un-home-chute-a-velo-et-se-blesse-gravement-1668320917
+
+Choix du matériel:
+- Serveur
+https://www.materiel.net/produit/201910020074.html
+https://yadom.fr/raspberry-pi-4-model-b-4gb.html?src=raspberrypi
+
+- Capteur gps
+https://fr.rs-online.com/web/p/modules-gnss-et-gps/1793714?cm_mmc=FR-PLA-DS3A-_-google-_-CSS_FR_FR_Semi-conducteurs_Whoop-_-(FR:Whoop!)+Modules+GNSS+et+GPS-_-1793714&matchtype=&pla-333680702070&gclid=EAIaIQobChMIjejKlobE_AIVCAsGAB2xaQ5PEAQYASABEgLwy_D_BwE&gclsrc=aw.ds
+https://www.amazon.fr/AZDelivery-Shield-Antenne-Arduino-compris/dp/B07VW8N33N/ref=sr_1_8?keywords=Gps%2BArduino&qid=1673597793&sr=8-8&th=1
+
+Dev:
+GPS: https://www.youtube.com/watch?v=VZ2ushI4D0Y
+
+https://app.diagrams.net/#HJLUSE63%2F2I2D%2Findex%2FDiagramme%20d'exigence%202I2D.drawio
+
+https://wiki.seeedstudio.com/Grove-GPS/
