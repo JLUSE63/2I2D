@@ -1,0 +1,92 @@
+@import url('./modules/Comfortaa-Swap.css');
+
+body {
+  margin: 0px;
+  background: #e0e0e0;
+  font-family: 'Comfortaa', cursive;
+}
+
+.login {
+  width: 360px;
+  padding: 8% 0 0;
+  margin: auto;
+  border-radius: 50px;
+}
+
+.form {
+  position: relative;
+  z-index: 1;
+  background: #fff;
+  border-radius: 10px;
+  max-width: 600px;
+  margin: 0 auto 100px;
+  padding: 45px;
+  text-align: center;
+  border-radius: 50px;
+  background: #e0e0e0;
+  box-shadow:  -11px 11px 22px #bebebe, 11px -11px 22px #fff;
+}
+
+.form input {
+  outline: 0;
+  background: #fff7;
+  width: 100%;
+  border: 0;
+  border-radius: 5px;
+  margin: 0 0 15px;
+  padding: 15px;
+  box-sizing: border-box;
+  font-size: 14px;
+}
+.form input:focus { background: #fff9; }
+
+.form button {
+  text-transform: uppercase;
+  outline: 0;
+  background: #fff4;
+  width: 100%;
+  border: 0;
+  border-radius: 5px;
+  padding: 15px;
+  color: #000;
+  font-size: 14px;
+  -webkit-transition: all 0.3 ease;
+  transition: all 0.3 ease;
+  cursor: pointer;
+}
+.form button:active { background: #acf; }
+
+
+.parent {
+  padding: 10px;
+  display: grid;
+}
+
+.content {
+  display: flex;
+  flex-direction: column;
+  padding: 10px;
+}
+.content-1 {
+  grid-area: 1 / 1 / 2 / 2;
+  border-right: 1px #000 solid;
+}
+.content-2 {
+  grid-area: 1 / 2 / 2 / 3;
+  border-left: 1px #000 solid;
+}
+.content-1 h2 { color: #3d3; }
+.content-2 h2 { color: #d33; }
+
+.contents {
+  display: grid;
+  border-bottom: 2px #000 solid;
+}
+.contents #id { grid-area: 1 / 1 / 2 / 2; }
+.contents #received { grid-area: 1 / 2 / 2 / 6; }
+.contents #coordonnees { grid-area: 2 / 1 / 5 / 3; }
+.contents #latitude { grid-area: 2 / 3 / 3 / 6; }
+.contents #longitude { grid-area: 3 / 3 / 4 / 6; }
+.contents #altitude { grid-area: 4 / 3 / 5 / 6; }
+.contents #sent { grid-area: 5 / 1 / 6 / 3; }
+.contents #sent-time { grid-area: 5 / 3 / 6 / 6; }
